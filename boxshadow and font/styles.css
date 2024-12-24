@@ -1,0 +1,247 @@
+.borders {
+    border:3px solid;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px;
+    box-shadow: 10px 10px 30px 10px pink inset;
+}
+.box-containers {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20vh;
+}
+.box1 {
+    width: 15vw;
+    height: 40Vh;
+    border: 1px solid;
+    text-align:center;
+    background-color: #d1d1e0;
+    margin-top: 20px;
+    box-shadow: 3px 3px 5px lightblue;
+    border-radius: 20px;
+}
+
+.box1:hover {
+    cursor: pointer;
+    font-size: 20px;
+    transform: scale(1.1);
+    
+}
+
+
+.color1 {
+    background-color: #b4eb34;
+    align-content: center;
+    
+
+}
+.color1:hover {
+    font-family: "Oswald", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    
+}
+
+.color2 {
+    background-color: #7b2e80;
+    align-content: center;
+
+}
+.color2:hover {
+    font-family: "Kanit", serif;
+  font-weight: 200;
+  font-style: normal;
+
+}
+.color3 {
+    background-color: #ccc056;
+    align-content: center;
+
+}
+.color3:hover {
+    font-family: "Josefin Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+.color4 {
+    background-color: #4a472a;
+    align-content: center;
+
+}
+.color4:hover {
+    font-family: "Danfo", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "ELSH" 0
+    
+}
+.color5 {
+    background-color: #302d0c;
+    align-content: center;
+
+}
+.color5:hover {
+    font-family: "Great Vibes", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.color6 {
+    background-color: #787661;
+    align-content: center;
+
+}
+.color6:hover {
+    font-family: "Playball", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.color7 {
+    background-color: #9489c4;
+    align-content: center;
+
+}
+.color7:hover {
+    font-family: "Lobster", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.color8 {
+    background-color: lightgreen;
+    align-content: center;
+
+}
+.color8:hover {
+
+    font-family: "Rowdies", serif;
+    font-weight: 400;
+    font-style: normal;
+      
+      
+}
+.color9 {
+    background-color: #787661;
+    align-content: center;
+
+}
+.color9:hover {
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+.color10 {
+    background-color: #d1d1e0;
+    align-content: center;
+
+}
+.color10:hover {
+    font-family: "Roboto", serif;
+    font-weight: 100;
+    font-style: normal
+}
+.color11 {
+    background-color: lightsalmon;
+    align-content: center;
+
+}
+.color11:hover {
+    font-family: "Jacquard 12", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.color12 {
+    background-color: lightpink;
+    align-content: center;
+
+}
+.color12:hover {
+    font-family: "Shadows Into Light", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.color13 {
+    background-color: lightseagreen;
+    align-content: center;
+
+}
+.color13:hover {
+    font-family: "Tiny5", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.color14 {
+    background-color: lightslategray;
+    align-content: center;
+
+}
+.color14:hover {
+    font-family: "Permanent Marker", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.color15 {
+    background-color: lightseagreen;
+    align-content: center;
+
+}
+.color15:hover {
+    font-family: "Abril Fatface", serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+.color16 {
+    background-color: lightsteelblue;
+    align-content: center;
+
+}
+.color16:hover {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+.color17 {
+    background-color: lightyellow;
+    align-content: center;
+    
+}
+.color17:hover {
+    font-family: "Playwrite CU", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+.color18 {
+    background-color: lightpink;
+    align-content: center;
+    
+}
+.color18:hover {
+    font-family: "Jersey 10", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.color19 {
+    background-color: lightgreen;
+    align-content: center;
+
+}
+.color19:hover {
+    font-family: "Babylonica", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.color20 {
+    background-color: lightseagreen;
+    align-content: center;
+    
+}
+.color20:hover {
+    font-family: "Italianno", serif;
+    font-weight: 400;
+    font-style: normal;
+}

@@ -1,0 +1,67 @@
+
+body {
+    margin: 0px;
+    box-sizing: border-box;
+
+    
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    
+
+}
+.nameofwebsite {
+    font-size: 30px;
+    margin-left: 20px;
+}
+.Nav-details {
+    justify-content: space-between;
+}
+.navbar-links {
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-right: 20px;
+    list-style-type: none; 
+}
+.button {
+    width: 40%;
+    height: 5vh;
+    background-color: lightblue;
+    border-radius: 15px;
+    border: none;
+
+}
+.flexboxs{
+    display: flex;
+
+
+    
+}
+.description {
+    flex-basis: 50%;
+    margin-left: 50px;
+    font-size: 20px;
+    
+}
+.titlewebsite {
+    font-size: 120px;
+}
+.image {
+    width: 20vw;
+    
+}
+img {
+    width: 40vw;
+    margin-left: 20px;
+}
+.namebutton {
+    background-color: lightseagreen;
+    height: 40px;
+    border: none;
+    border-radius: 18px;
+    color: white;
+}
